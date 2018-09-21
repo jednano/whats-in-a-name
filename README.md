@@ -2,16 +2,16 @@
 An in-depth look into naming variables, functions and other things in code.
 
 ### Jump List
-- Introduction
-- Variables
-- Functions & Methods
-- Classes
-- Models
-- Views
-- Controllers
-- Routes
-- Conclusion
-- You Might Also Like&hellip;
+- [Introduction](#introduction)
+- [Variables](#variables)
+- [Functions & Methods](#functions--methods)
+- [Classes](#classes)
+- [Models](#models)
+- [Views](#views)
+- [Controllers](#controllers)
+- [Routes](#routes)
+- [Conclusion](#conclusion)
+- [You Might Also Like&hellip;](#you-might-also-like)
 
 ## Introduction
 _TODO_
